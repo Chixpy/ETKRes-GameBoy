@@ -1,0 +1,5 @@
+A one-on-one fighting game based on the manga of the same name. The game puts you in the shoes of a newcomer to the Otoko Jyuku school. A special boarding school for unruly teenagers that instills discipline by adopting feudal codes of conduct and pitting its students against each other in constant duels.
+
+As expected the game focuses on the duels, represented as one-on-one side scrolling fights in which your character (armed with a bo-stick) must defeat a series of contenders in succession, each armed with their own weapons.
+
+Features a single-player "story" mode, which includes cutscenes composed of still images that advance the story between each match, and a Vs. mode for two-player gameplay.

@@ -1,0 +1,9 @@
+A game boy cartridge that could interact with a bundled sewing machine that Singer Co. hoped to use to attract new people to the world of loopers and bobbins. The devices are connected by a link cable that rolls out from inside the sewing machine.
+
+The cartridge contains 84 stitch patterns, including abstract designs, symbols, numbers, and animals such as dolphins. A custom pattern may also be designed. Letters, in block, script, and outline fonts, may also be added to a stitching, ten at a time, the words you use can be added as favorites which can be easily reselected. The patterns can be put together in different combinations.
+
+The cartridge also allows one to do buttonholes, by selecting between five different styles of hole. 
+
+Should something jam on the sewing machine, or some other sort of error occur, a diagram of the machine will appear on the screen with the trouble area flashing. Similarly should the machine require any attention the information will be supplied through the screen.
+
+On the game boy color one can also set the color fabric and thread on the screen.

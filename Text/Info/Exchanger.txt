@@ -1,0 +1,5 @@
+Money Puzzle Exchanger is a puzzle game similar to Magical Drop only with coins. It was originally created by FACE and released for the Neo Geo arcade cabinets.
+
+You can move the mini character at the bottom of the screen left or right, grab coins and drop them somewhere else. There are six types of coins: 1, 5, 10, 50, 100 and 500. The goal is to form connecting groups of coins. Coins are combined (vertically and/or horizontally) to form higher valued coins. For example, if you put five 1 coins together, they will disappear and form one 5 coin. Two 5's make one 10, five 10's make one 50 etc. Two 500 coins put together just disappear and give you 1000 points.
+
+The game is lost when coins reach the bottom of the playing area. You can make chain reactions to launch attacks to the other player in vs-mode, or just for bonus points in single player.

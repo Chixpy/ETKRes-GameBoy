@@ -1,0 +1,3 @@
+A kid-friendly Megaten spin-off based on the collectible trading card game released at the time. You take the role of a beginner card summoner with a basic deck as he goes out to the city in hopes of challenging fellow card summoners and becoming the ultimate champion.
+
+The game is an RPG in which you explore each city location from an overhead map and approach fellow summoners and other NPCs for items and challenges. Your objective is to fight against the other summoners using your demon cards following the same rules as the trading card game. Win and you get to add extra cards to your deck, or get money that can be later used to buy special cards.

@@ -1,0 +1,9 @@
+In this game you are a 10-year-old boy, now old enough to receive your first Pokemon. You train this Pokemon by using it to battle with other Pokemon. Your main objective is to collect 8 gym badges to face the elite 4 and champion of Kanto. You do this by defeating each gym leader in a Pokemon battle. 
+
+There are two parts in gameplay to this game. The first is your main character. You walk from place to place, goes up to talk to people, and find items. The second part of the gameplay happens when another trainer has seen you, or you come across a wild Pokemon. 
+
+In the Pokemon battle, you can select from 4 options: Attack, Pokemon, Item, and Run. In the attack option, you choose from the Pokemon's attacks to use on the opponents Pokemon. This either drains their HP (lowering a Pokemon's HP to zero will knock them out), inflicts a status condition (like sleeping or poison), or changes stats (attack power, speed, etc). In the Pokemon option you can switch the Pokemon in battle. In the item option you can either use items on your Pokemon (to heal them), or in a wild Pokemon battle you can throw a Pokeball to catch them. The run option is only available in wild battles, you cannot run from a trainer. The battle ends when one trainer has no remaining Pokemon.
+
+Your rival is always one step ahead of you, and challenging you to battles. You will run into the Rocket Gang, a group of criminals who use Pokemon for evil purposes. You must defeat many of their grunts and their leader in order to foil their evil schemes.
+
+You can also link up to Pocket Monsters Green in order to trade Pokemon or battle with your friends. This is necessary to get all 150 Pokemon, because not all of them appear in Red.

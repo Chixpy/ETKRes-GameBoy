@@ -1,0 +1,16 @@
+Game Boy Camera Games is a fictive name for the built-in software and games included with the Game Boy Camera peripheral. It consists of three modes: shoot, view, and play.
+
+Shoot lets you take pictures of yourself, friends or objects.
+
+Play features four games:
+
+1. Space Fever II is a sequel/homage to the 1979 Nintendo Space Fever arcade game.
+2. DJ lets you make your own music.
+3. Ball is a juggling game, is similar to the old Game and Watch games.
+4. Run! Run! Run! is sprint game where you have to race to the finish for first place.
+
+All the games except for Space Fever II replace the character's head with a picture of your own.
+
+View allows you to look back at your pictures. You can also make short animations of all your pictures or share them with another Game Boy Camera. The accessory is designed as a cartridge with a camera on top, plugged into the Game Boy hand-held. The camera can only shoot black-and-white pictures.
+
+The start and select options let you doodle on your pictures and print them out with the Game Boy Printer.

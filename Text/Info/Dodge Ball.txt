@@ -1,0 +1,7 @@
+A GameBoy sequel of the classic Super Dodge Ball game for the NES.
+
+The basic gameplay is the same as in other Dodge Ball games in the Nekketsu Kunio Kun series, with 3-on-3 side-scrolling matches of dodge ball in which the characters can use special moves and other abilities according to their stats in order to defeat the other team.
+
+Instead of featuring world-based teams as in the NES original, the teams this time are composed of Nekketsu High members, and thus the matches take place in schoolyards and several other locations from the Kunio Kun universe.
+
+3 modes of gameplay are available: Tournament, Vs for 2p gameplay via link, and a bean bag mode with different rules (such as no outfield characters)..
