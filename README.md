@@ -19,7 +19,7 @@ All images in .png format at original resolution: *160 x 144*.
 
 ### Front, Back, Spine, Manual, Ads, Reviews, Media, Other
 
-Escaned .jpg; with a maximum of 2048x2048, don't enlarge artificially (if larger, we can resize it to 2048 the larger side, keeping aspect ratio and a quality of 90%). Trying not to do transformations and resave it. Lossless rotation or cropping allowed.
+Scanned .jpg; with a maximum of 2048x2048, don't enlarge artificially (if larger, we can resize it to 2048 the larger side, keeping aspect ratio and a quality of 90%). Trying not to do transformations and resave it. Lossless rotation or cropping allowed.
 
 ### Icons, Logos
 
