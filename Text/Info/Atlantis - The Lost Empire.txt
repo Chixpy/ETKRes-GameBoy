@@ -1,1 +1,5 @@
 Embark on an epic journey to find the fabled lost city, rescue Princess Kida and save Atlantis from certain doom. 10 levels of adventure await you.
+
+There are 2 european version with different language choices:
+  * English, Spanish, Italian
+  * French, German, Dutch
